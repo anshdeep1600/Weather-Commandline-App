@@ -1,4 +1,4 @@
-# Weather-Commandline-App
+# Weather-CommandLine-App
 Helps display weather forecast for any location, taking input from command line.
 
 In order to get the weather forecast for a location, run the following command in the terminal
